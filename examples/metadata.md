@@ -1,6 +1,6 @@
 ---
 author: Gopher
-date: January 2, 2006
+date: MMMM dd, YYYY
 paging: Page %d of %d
 ---
 
